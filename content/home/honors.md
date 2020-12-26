@@ -47,7 +47,8 @@ subtitle = ""
 
 
 +++
-Ofelia Anzola Memorial Scholarship, University of Florida, 2020 Spring
+
+- Ofelia Anzola Memorial Scholarship, University of Florida, 2020 Spring
 
 - Phillip L. Herndon Endowment in Economics, University of Florida, 2020 Spring
 
